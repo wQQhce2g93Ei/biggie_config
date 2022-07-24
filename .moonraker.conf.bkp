@@ -38,3 +38,9 @@ type = web
 repo = cadriel/fluidd
 path = ~/fluidd
 
+[update_manager mainsail]
+type = web
+channel = stable
+repo = mainsail-crew/mainsail
+path = ~/mainsail
+
